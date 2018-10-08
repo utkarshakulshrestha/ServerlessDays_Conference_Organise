@@ -1,4 +1,4 @@
-# organise
+# ServerlessDays_Conference_Organise
 Docs on how to organise a ServerlessDays Conference
 
 To get development server running locally run the following commands.
